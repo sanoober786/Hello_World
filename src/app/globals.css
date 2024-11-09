@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    color: brown;
+    background-color: yellow;
+    text-align: center;
+}
